@@ -1,0 +1,2 @@
+# MUCTAGA_UAVs-Target-Assignment_xiashun
+The code was created by xiashun , come from Yanshan Univeristy ,CHINA .In this paper, the task allocation of multiple UAVs is mainly studied. If you need this paper ,please read "  Modeling of UAVs Cooperative Target Assignment with Allocation Order and Its Solving of Genetic Algorithm" ,the Chinese name is：考虑分配次序的UAVs协同目标分配建模与遗传算法求解。The Upload date is 2018.8.26.
